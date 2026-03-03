@@ -16,7 +16,8 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 
 | Skill | Description |
 |-------|-------------|
-| _coming soon_ | |
+| [qa](skills/qa) | Full QA on all session changes using Codex as a second pair of eyes |
+| [design-swarm](skills/design-swarm) | Orchestrate a team of 10 design agents for holistic UI audit, ideation, and implementation |
 
 ## Contributing
 
