@@ -33,6 +33,13 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 | [visual-explainer](skills/visual-explainer) | Generate self-contained HTML pages that visually explain systems and code |
 | [napkin](skills/napkin) | Per-repo napkin file as a continuously curated runbook (by [blader](https://github.com/blader/napkin)) |
 
+### Product & strategy
+
+| Skill | Description |
+|-------|-------------|
+| [b2b-expert-advisor](skills/b2b-expert-advisor) | B2B startup strategy advisor grounded in Lenny Rachitsky's 7-part series and April Dunford's positioning framework |
+| [plan-ceo-review](skills/plan-ceo-review) | Founder/CEO plan review — rethink the problem, find the 10-star product (from [Garry Tan's gstack](https://github.com/garrytan/gstack)) |
+
 ### Design
 
 | Skill | Description |

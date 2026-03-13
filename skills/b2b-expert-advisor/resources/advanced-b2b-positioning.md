@@ -1,0 +1,108 @@
+### 10 years, 300 companies, 4 non-obvious lessons on getting past the trickiest roadblocks
+
+*👋 Hey there, I’m Lenny. Each week, I answer reader questions about building product, driving growth, and accelerating your career. For more: [Lenny’s Podcast](https://www.lennysnewsletter.com/podcast) | [Lennybot](https://www.lennybot.com/) | [How I AI](https://www.youtube.com/@howiaipodcast) | My favorite [AI/PM courses](https://maven.com/lenny), [public speaking course](https://ultraspeaking.com/lennyslist?via=lenny), and [interview prep copilot](https://www.benerez.com/copilot/lenny)*
+
+*P.S. Get a full free year of Lovable, Replit, Manus, Gamma, n8n, Canva, ElevenLabs, Amp, Factory, Devin, Bolt, Wispr Flow, Linear, PostHog, Framer, Railway, Granola, Warp, Perplexity, Magic Patterns, Mobbin, ChatPRD, and Stripe Atlas [by becoming an Insider subscriber](https://www.lennysnewsletter.com/subscribe?plan=founding). [Yes, this is for real](https://www.lennysnewsletter.com/p/productpass).*
+
+---
+
+As AI makes it trivial to build and launch products (and, soon, even come up with product ideas), **the biggest challenge for product teams is quickly becoming distribution**: getting people to pay attention to your product in the increasing cacophony of launches.
+
+One of the most powerful tools to cut through that noise is **positioning**. Strong, specific positioning grabs people’s attention and helps them instantly understand why your product is for them.
+
+[April Dunford](https://www.aprildunford.com/) is the world’s leading expert on the topic. She is the author of *the* book on positioning, *[Obviously Awesome](https://www.aprildunford.com/books)*, and has worked with over 300 B2B companies to nail their positioning. She’s also a two-time Lenny’s guest contributor and podcast guest. As she explained in [her previous, widely shared, guest post](https://www.lennysnewsletter.com/p/positioning), “a single shift in positioning can mean the difference between a product that flops and one that breaks through.”
+
+**In her latest guest post, below, April offers a guide to advanced B2B positioning—four lessons for getting past the trickiest and most common roadblocks that teams run into.**
+
+Let’s get into it.
+
+*P.S. April just published [an updated and expanded edition of Obviously Awesome](https://www.aprildunford.com/books). Grab a copy if you know what’s good for you. For more from April, [subscribe to her excellent Substack](https://aprildunford.substack.com/) (she’ll be dropping some new plug-and-play positioning templates in the next couple of weeks), and [follow her on LinkedIn](https://www.linkedin.com/in/aprildunford/).*
+
+*You can also listen to this post in convenient podcast form: [Spotify](https://open.spotify.com/show/0IIunA06qMtrcQLfypTooj) / [Apple](https://podcasts.apple.com/us/podcast/lennys-reads/id1810314693) / [YouTube](https://www.youtube.com/@lennysreads).*
+
+---
+
+![](https://substackcdn.com/image/fetch/$s_!mQVh!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9e59a6f-2b65-45e5-a1ed-aa7236060067_2912x1940.png)
+
+When I started out as a junior product marketer, positioning was something everyone understood but no one knew how to do, especially for tech companies. My work over the past 10 years has focused on developing a repeatable process that any B2B technology company can use as a starting point for creating strong positioning. I wrote a book, *Obviously Awesome*, about how a cross-functional team should work through the five components of positioning in a specific order. I’ve also covered it in [this article](https://www.lennysnewsletter.com/p/positioning) and [this podcast](https://www.youtube.com/watch?v=hdjlCLb9Hl8) with Lenny.
+
+Today, we have a much deeper understanding of how to develop good positioning—which is great for product marketers and great for the industry. But teams may encounter more advanced and challenging roadblocks that can slow momentum, derail collaboration, and break a project entirely. In this post, I’m looking beyond the basics of running a positioning process to address how to get past difficult roadblocks at different stages of the positioning development process to develop a positioning that clearly sets your product apart from your competition.
+
+![](https://substackcdn.com/image/fetch/$s_!0NX6!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b989ec0-b5af-4c42-8d6d-16f82b06333f_1510x1248.png)
+
+There are four patterns I see where teams encounter roadblocks during positioning development that are hard to see coming and to navigate around:
+
+1. **Disagreement about what to position** ***against***
+2. **Product pessimism blinds the team to product strengths**
+3. **The differentiated value is poorly defined**
+4. **The company doesn’t know what they are positioning**
+
+These roadblocks are common, but they’re far from impossible to manage. In this post, I’ll give you a clear view of where they may appear down the road and how you can avoid them entirely or guide your team safely around them to achieve consistent, lasting success in your B2B positioning. You’ll walk away with a greater understanding of the positioning process and four real-world strategies that you can immediately take into your next project. Now let’s get into it.
+
+## Four positioning roadblocks and how to move past them
+
+![](https://substackcdn.com/image/fetch/$s_!d8ma!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33a489a3-73da-468d-a876-29c151863c2a_1510x1439.png)
+
+## Roadblock 1: Disagreement about what to position against
+
+The first step in a positioning process is to look at the competitive alternatives. One of the most surprising things I have seen in positioning work is how often marketing, product, sales, and the founder/CEO have very different views on who they compete with. I’ve seen it so consistently that I believe disagreement about what to position against is the root of most weak positioning.
+
+Each function in a B2B tech company tends to have its own set of biases when it comes to thinking about “competition.”
+
+**Marketing:** Marketing is often overly influenced by a potential competitor’s marketing spend, regardless of the effectiveness of that spend (which is often completely unknown). Marketing teams watch how competitors show up in media, online, ads, and at conferences, and then often equate market visibility with competitive success—even if the sales team rarely encounters this competitor on a prospect’s short list and never loses deals to them.
+
+**Product Management:** The product team is focused a little further into the future than the marketing and sales teams. Product roadmap work requires an understanding of what I would call “horizon competitors,” products that aren’t causing any pain today but could in the future. In a positioning exercise, product teams will often list twice as many “competitors” as a sales team does, many of which are never seen on a prospect’s short list.
+
+**Sales:** Sales teams can have a skewed perception of competitors in two distinct ways. Firstly, they tend to have what I would call a “whale” bias. Sales can feel the sting of losing one very big deal and become overly focused on that winning competitor, even if they are never seen in more “normal” deals. The second bias is that they rarely define the status quo solution as a “competitor.” Deals lost to the status quo are often categorized as “no decision.” In the mind of a good salesperson, the customer’s “No” is mentally translated to “Not yet.” I have seen this even when the overwhelming majority of deals are lost to the status quo.
+
+**Founders:** Most founders I’ve worked with have a great gut feel for positioning. In fact, many positioning exercises I’ve led end up helping newer executives understand the nuances of what the founder already knows. However, in certain situations, founders might muddy the positioning waters by bringing a bias that the rest of the team doesn’t fully understand. Three situations where I see this happening:
+
+- **The founder was once heavily involved in closing deals but became less so.** The founder may be biased toward what the competitive landscape *used* to look like and less familiar with current market dynamics.
+- **Recent acquisitions** have opened opportunities in market segments that the acquiring team (including the founder) may not understand as well as the folks on the recently acquired team.
+- **The founder has recently been very focused on fundraising.** In fundraising, the company orients more toward the future state it is building. Often, that future state is not something the sales team can sell today. Too much focus on future capabilities the company does not yet deliver can result in stalled deals and customers saying, “We love that. Come back in two years when you have it.”
+
+### The solution: Focus on the prospect’s view of the competition
+
+The prospect’s view of competitive alternatives is the only one that matters. Because different teams interact with customers in different ways and at different points in the sales process, their understanding of how customers view alternatives won’t always align. If we go into the positioning process understanding this, we can get past the roadblock in these ways:
+
+1. **Imagine a world from the prospect’s POV:** Rather than have the team list conflicting sets of perceived competitors, ask, “If we didn’t exist, what would a prospect do?” That reframing helps the team focus on what is happening in sales deals out in the real world, rather than who they *should* or *could* compete with.
+1. **Stay rooted in the near term:** As an old boss of mine used to say, “We have to sell what’s on the truck.” The path to success is to focus on the product as it exists, in the market as it exists, and selling to the customers we can win with today. We should expect our positioning to change over time as the product, competitors, and target customers evolve, but we should also accept that we are terrible at predicting how the changes will unfold.
+1. **Don’t forget the status quo:** In B2B, vendors typically lose about half their sales opportunities to whatever the prospect is currently using. I’ve worked with companies where that number exceeds 80%. We need to understand the strengths and weaknesses of the status quo solution to convince buyers to move on. Research shows that about half the time, a status quo decision is more about customer indecision than a vote for the status quo solution (see Matt Dixon’s JOLT Effect research, for example). Still, we ignore the other half at our peril. Strong positioning wins both types of “no decision” deals.
+1. **Work with a cross-functional team:** The first and most obvious way to ensure that the positioning accounts for different perspectives is to work with a cross-functional team. My recommendation is that we have the heads of marketing, sales, product management, and customer success, along with the founder, CEO, or head of the business (if it is a larger company). Often it helps to include a couple of very experienced account executives from the sales team to verify what is happening in the early sales stages. If we are positioning the company or a grouping of products (more on this later), we will need to make sure we have folks with product and commercial experience for each product. We might also need sales representation across different geographies if the competitive landscape varies.
+
+## Roadblock 2: Pessimism blinds the team to the products’ strengths
+
+Some companies suffer from overly pessimistic product thinking—where teams convince themselves their product is an undifferentiated loser despite clear evidence that they’re winning in parts of the market. This can happen when teams are overly focused on closing perceived gaps with competitors or when product teams and sales teams don’t communicate well or often. The pessimism pattern is dangerous because it blinds teams to their competitive strengths and prevents the company from positioning around them. Also, this mindset tends to be contagious, spreading to marketing and sales teams, who may lose confidence in the product’s ability to deliver differentiated value. It’s hard to convince prospects to invest in a product that sellers don’t believe in.
+
+The pessimism manifests in four key ways:
+
+1. **Defining ideal customers so broadly that every lost deal seems like a product failure:** I have worked with companies where product teams become over-exposed to bad deals and under-exposed to good ones. PMs get pulled in to try to save lost-cause deals, even when the prospect was a poor fit for the product in the first place. Meanwhile, deals with good-fit prospects are easily closed without any PM involvement. The result is that the product team begins to develop a skewed idea of what a good-fit prospect typically looks like.
+2. **Maintaining long hypothetical competitor lists**:It’s hard to differentiate your product from an overly long list of competitors, particularly when we know little about many of them because we have never had to compete against them in a deal. For roadmap work, it makes sense to track future potential competitors. For positioning work, we have to stay oriented in the reality of the market—and be prepared to shift if and when a competitor begins to truly cause us pain.
+3. **Dismissing sales team insights about why customers buy:** Sometimes this type of pessimism persists even in the face of proof that the product is doing well. In one workshop, a sales team listed a set of large accounts they had won because the product was superior in a particular way. The product team insisted that those prospects had failed to evaluate the other alternative properly. In another, despite the company generating hundreds of millions in revenue with solid growth, the product leader insisted that the sales team was winning through trickery and lies. I have seen salespeople who went too far in stretching the truth, but never one who was very successful with that strategy.
+4. **Viewing the role of product management as “problem identification” rather than architecting true differentiated value:** Some companies get trapped in a cycle of competitive catch-up, to the point where the team becomes very adept at pointing out product problems and less attuned to where the product is leading. Often, there is a big, boring, long-standing differentiator hiding in plain sight. The product team takes it for granted (“Oh, we have *always* done that!”) while sales are selling the heck out of it.
+
+Each symptom reinforces the others, creating a toxic cycle that undermines the company’s ability to articulate and amplify its genuine competitive advantages.
+
+### The solution: Keep coming back to what’s working
+
+To break the pattern for positioning work, expose the product team to what sales understands about what’s working in the majority of deals, and work through a positioning exercise to help both teams understand each other.
+
+We can get past this roadblock by:
+
+1. **Focusing the whole team on strengths and the near-term competitive advantage:** A positioning process is really about finding the heart of why we win. To get there, we need to understand the product’s strengths and competitive advantages. We understand the product isn’t perfect and that we have competitive gaps. But we need to win business now, and we need positioning that tells a clear, compelling story about the product we have today (with the full understanding that that positioning will change and hopefully improve over time). Positioning is not a product strategy, nor does it set the product’s future direction. A discussion of the ways the product falls short does not lead to strong, differentiated positioning.
+2. **Including experienced sales voices in the room:** Nobody understands how a customer behaves across a sales process better than your sales team does. For positioning work, we need to rely on that experience to understand who our true competitors are, what our true differentiators are, and which types of buyers care most about those differentiators. If the company’s CRO and VP of Sales do not have much experience with early-stage deals, it helps to have an experienced account executive in the room, and having two is generally better than just one, giving us a view across a broader set of deals.
+3. **Preparing the moderator to challenge participants**: If you do a group positioning exercise, choose your moderator carefully. An experienced moderator can help the team stay grounded in reality and should be prepared to challenge participants if they become overly pessimistic. The moderator should remind the team that every day, customers spend months evaluating their options and then selecting the product. These customers can’t all be careless, gullible shoppers. Similarly, if a participant claims that many deals are won for a particular reason, they should be prompted to provide evidence and details. The team needs to agree on a position to work together and make it stick after the exercise.
+
+It’s not unusual for teams to get together to discuss product problems and gaps. However, a positioning exercise should focus on where the product outperforms the competition. Getting the team oriented around the differentiated strengths of the product is critical for great positioning.
+
+## Roadblock 3: The differentiated value is poorly defined
+
+As vendors (and particularly product folks), it’s easy to focus on features and assume buyers will easily understand why those features matter. In my experience, a product’s most differentiated capabilities are often the most difficult for prospects to understand, precisely because they are uncommon. If we really want to answer the question “Why pick us over the alternatives?” We have to clearly articulate the value our product can deliver that other alternatives cannot. This step in the process is the one I see teams struggle with the most.
+
+There are four ways I see teams get stuck around differentiated value:
+
+1. **Assuming prospects understand why a feature is important**: Today, a smartphone vendor can simply advertise that their phone has a 50-megapixel camera, and the audience knows what that means. However, 20 years ago, when few people had experience with digital cameras, you would have had to explain what a megapixel was, why anyone should care, and why 50 is better than 20. The more unique a feature is, the less likely a potential customer is to understand why it is important.
+1. **Stopping short of capturing value the prospect actually understands:** I once worked for a database company with patented technology that enabled us to execute a specific type of query 1,000 times as fast as our competitors. We assumed anyone buying a database would find query speed valuable. Interestingly, many companies did not care. They were running the query for a monthly or quarterly report, so getting the answer in a day or two was perfectly fine. Our best-fit accounts, however, were running those types of queries to respond to a customer question. The real value lay in responding to customers more quickly, not executing the query faster. Recently, many of the teams I’ve worked with have a value point around efficiency. But their buyers may be much more focused on driving revenue—and can’t connect the dots between efficiency and revenue themselves.
+2. **Going too far and losing the differentiation completely:** In B2B, we really only have two “pure” points of value. We are helping businesses make money or save money. (Insurance folks would add reducing risk, but that one is a special case!) Unlike consumer products, a successful B2B software project isn’t going to get you a date or make you look rich. We are increasing revenue or decreasing costs, and that’s it. If you abstract the value of your product all the way down to “This product saves you money,” you will sound exactly like every other product you compete with.
+3. **Overwhelming customers by attempting to communicate too many differentiated value themes**: Differentiated value should succinctly answer the question “Why pick us over the alternatives?” If we give prospects a list of 10 reasons why, they aren’t likely to connect with a clear story or remember more than a couple of them (if we’re lucky).
+4. **Confusing differentiated value with sales objection handling**: If there are people on the team who have never worked in sales, they might not understand what a sales objection is or how it differs from value. Value is a reason to buy. An objection is a reason a prospect might not buy, even if the value is something they really want. Often, objections come from constituents who are not the deal champion but can kill a deal if they have specific problems with the product. For example, I worked with a company whose product was very easy for the IT team to manage, which gave them an advantage over many competitors and the status quo. However, the purchase decision was driven by a business buyer who didn’t see any value in ease of management. In this case, ease of management was only used to handle the potential objection of the IT department *after* the business champion had selected the product.
