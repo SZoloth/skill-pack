@@ -40,6 +40,14 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 | [b2b-expert-advisor](skills/b2b-expert-advisor) | B2B startup strategy advisor grounded in Lenny Rachitsky's 7-part series and April Dunford's positioning framework |
 | [plan-ceo-review](skills/plan-ceo-review) | Founder/CEO plan review — rethink the problem, find the 10-star product (from [Garry Tan's gstack](https://github.com/garrytan/gstack)) |
 
+### Learning & growth
+
+| Skill | Description |
+|-------|-------------|
+| [master](skills/master) | Turn reference docs into active mastery — retrieval practice, case binding, and scenario simulation |
+
+The master skill ships with [reference docs and source transcripts](skills/master/resources/) on communication, influence, and leadership from Lenny's Newsletter and Podcast — ready to use with `/master learn communication`.
+
 ### Design
 
 | Skill | Description |
