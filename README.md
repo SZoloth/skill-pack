@@ -59,6 +59,31 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 | [master](skills/master) | Turn reference docs into active mastery — retrieval practice, case binding, and scenario simulation |
 | [upskilling-coach](skills/upskilling-coach) | Systematic coaching for skill acquisition — habit design, practice plans, plateau-breaking |
 
+## Resources
+
+Standalone reference materials that any skill (or you) can use directly. Not locked to a specific skill.
+
+### Communication & leadership
+
+Practitioner-sourced material on influence, stakeholder management, team leadership, and executive communication — from Lenny Rachitsky's newsletter and podcast archive.
+
+```
+resources/communication-leadership/
+├── lenny-communication-leadership-reference.md   # Consolidated reference (45 techniques)
+├── newsletters/                                   # 9 original newsletter articles
+│   ├── a-pms-guide-to-influence.md
+│   ├── getting-buy-in.md
+│   ├── managing-up.md
+│   └── ...
+└── podcasts/                                      # 11 podcast transcripts
+    ├── claire-hughes-johnson.md
+    ├── julie-zhuo.md
+    ├── wes-kao.md
+    └── ...
+```
+
+Use with the `master` skill (`/master learn communication`) for structured learning, or read directly.
+
 ## Recommended tools
 
 Not skills, but essential tools for building with AI.
