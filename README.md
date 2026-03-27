@@ -45,14 +45,6 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 | [shaping](skills/shaping) | Collaboratively shape solutions — iterate on requirements and solution options before building |
 | [doc-coauthoring](skills/doc-coauthoring) | Structured 3-stage workflow for co-authoring documentation, specs, and proposals |
 
-### Learning & growth
-
-| Skill | Description |
-|-------|-------------|
-| [master](skills/master) | Turn reference docs into active mastery — retrieval practice, case binding, and scenario simulation |
-
-The master skill ships with [reference docs and source transcripts](skills/master/resources/) on communication, influence, and leadership from Lenny's Newsletter and Podcast — ready to use with `/master learn communication`.
-
 ### Design
 
 | Skill | Description |
@@ -64,6 +56,7 @@ The master skill ships with [reference docs and source transcripts](skills/maste
 
 | Skill | Description |
 |-------|-------------|
+| [master](skills/master) | Turn reference docs into active mastery — retrieval practice, case binding, and scenario simulation |
 | [upskilling-coach](skills/upskilling-coach) | Systematic coaching for skill acquisition — habit design, practice plans, plateau-breaking |
 
 ## Recommended tools
