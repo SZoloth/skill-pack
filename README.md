@@ -21,6 +21,7 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 | [prompt-engineer](skills/prompt-engineer) | Expert prompt engineering using the "Genius Intern Framework" |
 | [think-first](skills/think-first) | "Think First, AI Second" — stay sharp while working with AI |
 | [skill-creator](skills/skill-creator) | Create skills that extend Claude's capabilities |
+| [taste](skills/taste) | Domain-grounded judgment for creation — make output feel authored, not generated |
 
 ### Dev workflow
 
@@ -30,6 +31,8 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 | [qa](skills/qa) | Full QA on all session changes using Codex as a second pair of eyes |
 | [agentic-review](skills/agentic-review) | Multi-agent code review — security, perf, architecture in parallel |
 | [iterate](skills/iterate) | Spin up N agents on isolated worktrees, compare approaches, pick winner |
+| [orchestrating-swarms](skills/orchestrating-swarms) | Multi-agent orchestration with teams, tasks, and message-passing |
+| [mcp-builder](skills/mcp-builder) | Build high-quality MCP servers in Python or TypeScript |
 | [visual-explainer](skills/visual-explainer) | Generate self-contained HTML pages that visually explain systems and code |
 | [napkin](skills/napkin) | Per-repo napkin file as a continuously curated runbook (by [blader](https://github.com/blader/napkin)) |
 
@@ -39,6 +42,8 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 |-------|-------------|
 | [b2b-expert-advisor](skills/b2b-expert-advisor) | B2B startup strategy advisor grounded in Lenny Rachitsky's 7-part series and April Dunford's positioning framework |
 | [plan-ceo-review](skills/plan-ceo-review) | Founder/CEO plan review — rethink the problem, find the 10-star product (from [Garry Tan's gstack](https://github.com/garrytan/gstack)) |
+| [shaping](skills/shaping) | Collaboratively shape solutions — iterate on requirements and solution options before building |
+| [doc-coauthoring](skills/doc-coauthoring) | Structured 3-stage workflow for co-authoring documentation, specs, and proposals |
 
 ### Learning & growth
 
@@ -53,6 +58,13 @@ The master skill ships with [reference docs and source transcripts](skills/maste
 | Skill | Description |
 |-------|-------------|
 | [design-swarm](skills/design-swarm) | Orchestrate a team of 10 design agents for holistic UI audit, ideation, and implementation |
+| [frontend-design](skills/frontend-design) | Create distinctive, production-grade frontend interfaces that avoid generic AI aesthetics |
+
+### Learning & growth
+
+| Skill | Description |
+|-------|-------------|
+| [upskilling-coach](skills/upskilling-coach) | Systematic coaching for skill acquisition — habit design, practice plans, plateau-breaking |
 
 ## Recommended tools
 
