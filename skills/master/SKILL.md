@@ -23,9 +23,7 @@ Parse the user's command to determine mode. Default to `learn` for new concepts,
 /master status [doc-path-or-keyword]  — Show mastery state
 ```
 
-If `doc-path-or-keyword` is a keyword, search for matching reference docs in the current project, the `resources/` directory at the repo root, or common knowledge base locations. If it's a path, use directly.
-
-This skill ships with communication and leadership resources in `resources/communication-leadership/` — use `/master learn communication` to get started.
+If `doc-path-or-keyword` is a keyword, search for matching reference docs in the current project or common knowledge base locations. If it's a path, use directly. Works with any reference document — the skill is not tied to a specific topic.
 
 ## Before Starting Any Mode
 

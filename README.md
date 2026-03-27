@@ -57,6 +57,7 @@ claude skills install --from github:samzoloth/skill-pack/skills/<skill-name>
 | Skill | Description |
 |-------|-------------|
 | [master](skills/master) | Turn reference docs into active mastery — retrieval practice, case binding, and scenario simulation |
+| [storytelling-influence](skills/storytelling-influence) | Coach on storytelling, communication, and influence — 45 practitioner-tested techniques |
 | [upskilling-coach](skills/upskilling-coach) | Systematic coaching for skill acquisition — habit design, practice plans, plateau-breaking |
 
 ## Resources
